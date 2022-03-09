@@ -1,4 +1,4 @@
-# xmlDomParcer
+# xmlDomParser
 Sample application for parsing xml response
 
 
